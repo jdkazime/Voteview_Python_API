@@ -4,13 +4,13 @@ A simple exploration into the data found under https://voteview.com/data.  We fo
 One must download the "HSall_votes" CSV and place it in the /voteview_data folder, as the file is too large to be hosted via Github.  They can be found at the aforementioned link. 
 Particularly, by choosing
 
-Data Type:  Members' Votes
+    Data Type:  Members' Votes
 
-Chamber:  House and Senate
+    Chamber:  House and Senate
 
-Congress: All
+    Congress: All
 
-File Format:  CSV
+    File Format:  CSV
 
 one can get the data needed.  Otherwise, "HSall.csv" is provided.
 
